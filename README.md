@@ -9,7 +9,7 @@ Each frame is processed, potential accident events are identified, and an annota
 Due to GitHub file-size limits, heavy files are stored externally.
 
 **Download Resources:**  
-https://drive.google.com/YOUR_LINK_HERE
+https://drive.google.com/drive/folders/1CrlK7Yzs9hG4rRpQvaL2qc0tzkWotkqq?usp=drive_link
 
 This contains:
 - `yolov8n.pt` (YOLOv8 model weights)
