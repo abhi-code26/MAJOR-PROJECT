@@ -21,15 +21,13 @@ This contains:
 After extracting everything, keep files like this:
 
 MAJOR-PROJECT/
-│
+   |-
 ├── main.py
 ├── generate_video.py
 ├── requirements.txt
-│
 ├── resources/
 │ ├── yolov8n.pt
 │ └── data/
-│
 └── README.md
 
 
