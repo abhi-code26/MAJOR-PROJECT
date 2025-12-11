@@ -37,37 +37,37 @@ MAJOR-PROJECT/
 
 1) Install dependencies:
 
-pip install -r requirements.txt
+   [pip install -r requirements.txt](#)
 
 2) Run accident detection:
 
-python main.py
+   [python main.py](#)
 
 3) Optional: Run video generator
 
-python generate_video.py
+   [python generate_video.py](#)
 
 How the System Works:
 
- 1.Load YOLOv8 model
+  1.Load YOLOv8 model
 
- 2.Process video frame-by-frame
+  2.Process video frame-by-frame
 
-3.Detect accident-related events
+  3.Detect accident-related events
 
-4.Draw bounding boxes and labels
+  4.Draw bounding boxes and labels
 
-5.Export final processed video
+  5.Export final processed video
 
 Future Enhancements:
 
-1.Real-time CCTV monitoring
+  1.Real-time CCTV monitoring
 
-2.Cloud alerts (AWS/Azure)
+  2.Cloud alerts (AWS/Azure)
 
-3.SMS/Email emergency notifications
+  3.SMS/Email emergency notifications
 
-4.Training custom dataset
+  4.Training custom dataset
 
 
 
