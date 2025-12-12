@@ -71,6 +71,8 @@ Future Enhancements:
 
   VIDEO DEMONSTRATION
 
+   Use this link on google chrome because loom works on its extension
+
   [https://www.loom.com/share/64ec7efaf55a46c7824633d4da64fc35](#)
 
 
